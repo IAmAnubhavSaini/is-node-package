@@ -1,0 +1,31 @@
+{
+  "name": "is-node-package",
+  "version": "1.0.0",
+  "description": "Check if a directory is node package - node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitfaf/is-node-package.git"
+  },
+  "keywords": [],
+  "author": "Git Faf <git.faf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitfaf/is-node-package/issues"
+  },
+  "homepage": "https://github.com/gitfaf/is-node-package#readme",
+  "devDependencies": {
+    "eslint": "^4.14.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "dependencies": {
+    "node-directories": "^1.0.1"
+  }
+}
